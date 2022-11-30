@@ -20,3 +20,4 @@
 <hr>
 </div>
   
+![snake gif](https://github.com/xjuliaag/xjuliaag/blob/output/github-contribution-grid-snake.svg)
