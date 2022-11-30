@@ -20,4 +20,4 @@
 <hr>
 </div>
   
-![snake gif](https://github.com/xjuliaag/xjuliaag/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AyrtonVilete/AyrtonVilete/blob/output/github-contribution-grid-snake.svg)
