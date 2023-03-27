@@ -1,6 +1,6 @@
 ### Sou Ayrton Vilete, Seja bem-vindo!! 👋
 
-- 🌱 Estudando HTML, CSS e JavaScript / Cursando Analise e Desenvolvimento de Sistemas 2° período
+- 🌱 Estudando HTML, CSS e JavaScript, Python / Cursando Analise e Desenvolvimento de Sistemas 3° período
 - 📫 Contate-me no email: ayrton.vilete3101@gmail.com / ayrton.vilete@outlook.com
 - 🧔🏻 Idade: 22 anos.
 - 😄 Sexo: Masculino.
