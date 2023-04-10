@@ -4,6 +4,7 @@
 - 📫 Contate-me no email: ayrton.vilete3101@gmail.com / ayrton.vilete@outlook.com
 - 🧔🏻 Idade: 22 anos.
 - 😄 Sexo: Masculino.
+- Atualmente estudando Banco de Dados na instituição Udemy EAD.
 <hr>
 <div align="center">
   <a href="https://github.com/AyrtonVilete">
