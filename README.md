@@ -9,12 +9,6 @@
   Aproveitando para obter novas certificações e conhecimentos gerais em suporte e desenvolvimento e como podemos unificar processos para facilidade de suporte ao usuario.
 <hr>
 <div align="center">
-  <a href="https://github.com/AyrtonVilete">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AyrtonVilete&theme=radical&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonVilete&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<hr>
-<div align="center">
   <a href="https://instagram.com/ayrtonvilete" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Urtoon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ayrton.vilete3101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
