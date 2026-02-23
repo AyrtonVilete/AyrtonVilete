@@ -1,9 +1,8 @@
 ### Sou Ayrton Vilete, Seja bem-vindo!! 👋
 
-- 🌱 Noções em: HTML, CSS, JavaScript, Node, Python, SQL e SQLite / Graduando em Analise e Desenvolvimento de Sistemas - Universidade Unigranrio Afya
+- 🌱 Noções em: HTML, CSS, JavaScript, Node, Python e SQL / Graduado em Analise e Desenvolvimento de Sistemas - Universidade Unigranrio Afya
 - 📫 Contate-me no email: ayrton.vilete3101@gmail.com / ayrton.vilete@outlook.com
 - 🧔🏻 Idade: 25 anos.
-- 😄 Sexo: Masculino.
 - Estudando Desenvolvimento em Python.
 - Configuração e utilização de APIs em projetos basicos.
   Aproveitando para obter novas certificações e conhecimentos gerais em suporte e desenvolvimento e como podemos unificar processos para facilidade de suporte ao usuario.
